@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+nav{
+    margin: 0;
+    overflow:hidden;
+    text-align: center;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav > ul > li > a{
+    color: #FFFFFF;
+    display: block;
+    line-height: 4em;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+-----------
+.logo-img{
+    position: relative;
+    
+}
+.bg-div{
+    background:#0000FF;
+}
+.c{
+background:#0000FF;
+color: #000000;
+font-family: "Times New Roman", Times, serif;
+}
+
+
+.l {
+  float: left;
+  width: 20.33%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  background: #0000FF;
+} 
+.button5 {border-radius: 50%;}
