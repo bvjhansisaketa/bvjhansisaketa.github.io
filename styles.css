@@ -19,8 +19,14 @@ body{
 
   font-size: 30px;
 }
-#menu-icon:before{
-  colour: #FFFFFF
+@media screen and (max-width: 1024px){
+.navigation.mobile-menu-wrapper, .navigation ul li a:hover, .navigation .menu .current_page_item a, .navigation .menu li a.active {
+background-color: #000000;
+color:white;
+}
+#main-menu-wrapper nav li a {
+color:white!important;
+}
 }
 h5{
   color: black;
