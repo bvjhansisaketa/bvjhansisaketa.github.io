@@ -19,14 +19,11 @@ body{
 
   font-size: 30px;
 }
-@media screen and (max-width: 1024px){
-.navigation.mobile-menu-wrapper, .navigation ul li a:hover, .navigation .menu .current_page_item a, .navigation .menu li a.active {
-background-color: #000000;
-color:white;
-}
-#main-menu-wrapper nav li a {
-color:white!important;
-}
+/* .custom-toggler .navbar-toggler-icon {
+ stroke-width=’2′ stroke-linecap=’round’ stroke-miterlimit=’10’ d=’M4 8h24M4 16h24M4 24h24’/%3E%3C/svg%3E”);
+} */
+.custom-toggler.navbar-toggler { 
+    border-color: #FFFFFF; 
 }
 h5{
   color: black;
