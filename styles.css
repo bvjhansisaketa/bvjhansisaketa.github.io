@@ -110,7 +110,7 @@ hr {
   color: #eaf6f6;
 }
 .activities{
-  background-image: url("../images/activities.jpg");
+  background-image: url("activities.jpg");
   background-repeat: no-repeat;
   /* height: 500px;
   width: 1000px; */
@@ -127,13 +127,13 @@ top: 60px;
 }
 .at{
   /* background-color:#C0C0C0; */
-  background-image: url("../images/backg2.jpg");
+  background-image: url("backg2.jpg");
   background-repeat: no-repeat;
   /* height: 500px;
   width: 1000px; */
   background-position: center;
   background-size: 100% 100%;
-  /* background-image: url("../images/jhansi.jpg"); */
+  /* background-image: url("jhansi.jpg"); */
 }
 .BUTTON_YVR {
    background: #C0C0C0;
