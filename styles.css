@@ -19,6 +19,9 @@ body{
 
   font-size: 30px;
 }
+#menu-icon:before{
+  colour: #FFFFFF
+}
 h5{
   color: black;
 }
